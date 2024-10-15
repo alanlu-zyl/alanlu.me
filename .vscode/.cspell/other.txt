@@ -1,0 +1,24 @@
+# Custom Dictionary Words
+abjad
+akar
+autorestart
+bluewood
+breakline
+datetime
+evenodd
+Fira
+fullname
+infile
+jiti
+multistep
+noborder
+Noto
+Overriden
+preinstall
+stroustrup
+toggleable
+typecheck
+unref
+wght
+zod's
+shellcheck
